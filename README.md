@@ -1,6 +1,1 @@
-This is a production-grade PowerShell reporting solution that:
-1. Processes structured CSV ticket data.
-2. Calculates operational KPIs.
-3. Generates styled HTML dashboard.
-4. Distributes an automated report via Outlook integration.
-5. Easily extensible to REST API integration for live ticketing systems.
+This is an PowerShell-based automated ticket dashboard that reads CSV data, calculates KPIs, generates HTML reports, and automatically emails stakeholders. Easily extensible to REST API integration for live ticketing systems.”
