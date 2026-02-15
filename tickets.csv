@@ -1,0 +1,5 @@
+﻿TicketID,Status,Priority,Category,CreatedDate,ResolvedDate,SLAHours
+1001,Closed,High,VPN,2026/02/01,2026/02/02,24
+1002,Open,Medium,Email,2026/02/03,,48
+1003,Closed,low,Access,2026/02/01,2026/02/05,72
+1004,Closed,high,VPN,2026/05/02,2026/05/05,24
